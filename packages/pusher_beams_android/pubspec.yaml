@@ -13,7 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
   pusher_beams_platform_interface: 
-    path : ../pusher_beams_platform_interface
+    path: ../pusher_beams_platform_interface
 
 dev_dependencies:
   flutter_test:
